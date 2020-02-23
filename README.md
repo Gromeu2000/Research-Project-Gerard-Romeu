@@ -37,7 +37,7 @@ _Figure 2. Assassin's Creed Odyssey. Ubisoft (2019)_
 ### **_Main types of quests_**
 **Main Quests** - Main Quests are focus points in the narrative, story, etc. 
 Anything that is not related to the main story or plot of the game can not be 
-considered one Main Quest and is considered as a Side one.
+considered as a one Main Quest and is considered as a Side one.
 
 Main Quests normally tell the story of a protagonist -who tends to be the player. 
 They can be used to reach important points into the narrative determined by the 
@@ -316,3 +316,15 @@ employed by developers can make or break a game.
 ## **_Bibliography_**
 ### **_Files_**
 
+[What is a quest designer](http://www.craigmakesgames.com/blog/2016/3/21/what-is-a-quest-designer)
+[Masterclass of game design](https://www.pcgamesn.com/the-witcher-3-wild-hunt/the-witcher-quest-design-cd-projekt-masterclass)
+[Games and quests](https://www.gamasutra.com/view/news/314812/Designing_side_quests_Study_these_7_games_and_some_Chris_Avellone_pointers.php)
+[Grinding](https://www.inverse.com/gaming/how-grinding-came-to-dominate-video-game-culture)
+[Games and quests 2](https://screenrant.com/video-game-side-quests-hurt-saved/)
+[What is a quest? Types of quests](https://en.wikipedia.org/wiki/Quest_(video_games))
+[Games and quests 3](https://www.thegamer.com/video-game-side-quests-best-ever-least-history/)
+
+### **_Videos_**
+
+[Quest Design I](https://www.youtube.com/watch?v=otAkP5VjIv8)
+[Quest Design II](https://www.youtube.com/watch?v=ur6GQp5mCYs)
