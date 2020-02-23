@@ -32,7 +32,7 @@ into the game is a quest. Anyway, there are different **types** of quests and mo
 things have to be clear before starting to wonder our quests for our future game.
 
 ![](https://cdn.gamer-network.net/2018/usgamer/ac-odyssey-gates-of-atlantis.png)
-_Figure 2. Assassin's Creed Odyssey Quests. Ubisoft (2019)_
+_Figure 2. Assassin's Creed Odyssey. Ubisoft (2019)_
 
 ### **_Main types of quests_**
 **Main Quests** - Main Quests are focus points in the narrative, story, etc. 
@@ -57,3 +57,38 @@ bad ones may sour players on the entire experience.
 
 ## **_Categories of quests_**
 Quests are classified and divided into 5 different types:
+
+**Who Says Fighting Never Solved Anything? - Kill Quests** - _“These robots are 
+terrorizing our village, and it needs to stop! Please destroy as many as you can find!”_ 
+
+Kill quests are straight forward: find x monsters in the region and kill them.
+
+![](https://i.pinimg.com/736x/3f/20/b0/3f20b02bb48414ed2535d268c9c896fd.jpg)
+_Figure 3. Destiny 2. Activision (2017)_
+
+
+**The Only Time You’ll Ever Toggle Run/Walk – Escort Quests** - _“I hear there are 
+bandits on the roads these days, please help me get back to my family.”_
+
+Exactly as it sounds: your job is to follow this NPC to their destination, 
+oftentimes protecting them along the way.
+
+![](https://game-wisdom.com/wp-content/uploads/2016/12/Resident-Evil-4-Hyped-Gamer.png)
+_Figure 4. Resident Evil 4. Capcom (2005)_
+
+**Hoarders: MMO Edition – Gather Quests** - _“I need to bake a cake. Go fetch me some 
+Deku tree roots.”_
+
+The job of the player is to go around the map and bring x number of a certain object.
+ 
+ 
+**A Gift for that Special Someone – Delivery Quests** - _“I don’t have the courage to 
+do this myself, so could you give Sarah these flowers for me?”_
+
+The job is simple, the player has to go and deliver a thing to a certain place.
+
+**Immerse Yourself – Interaction Quests** - _“Please, you call those dance moves? I’ll 
+show you how it’s done!”_
+
+There is no reason interacting with NPCs—or the game world—shouldn’t give the players 
+experience points. The focus of these quests are the less used mechanics.
