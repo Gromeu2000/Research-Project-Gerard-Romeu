@@ -66,7 +66,6 @@ Kill quests are straight forward: find x monsters in the region and kill them.
 ![](https://i.pinimg.com/736x/3f/20/b0/3f20b02bb48414ed2535d268c9c896fd.jpg)
 _Figure 3. Destiny 2. Activision (2017)_
 
-
 **The Only Time You’ll Ever Toggle Run/Walk – Escort Quests** - _“I hear there are 
 bandits on the roads these days, please help me get back to my family.”_
 
@@ -75,6 +74,7 @@ oftentimes protecting them along the way.
 
 ![](https://game-wisdom.com/wp-content/uploads/2016/12/Resident-Evil-4-Hyped-Gamer.png)
 _Figure 4. Resident Evil 4. Capcom (2005)_
+
 
 **Hoarders: MMO Edition – Gather Quests** - _“I need to bake a cake. Go fetch me some 
 Deku tree roots.”_
@@ -86,6 +86,7 @@ The job of the player is to go around the map and bring x number of a certain ob
 do this myself, so could you give Sarah these flowers for me?”_
 
 The job is simple, the player has to go and deliver a thing to a certain place.
+
 
 **Immerse Yourself – Interaction Quests** - _“Please, you call those dance moves? I’ll 
 show you how it’s done!”_
