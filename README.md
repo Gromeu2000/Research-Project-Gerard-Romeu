@@ -279,4 +279,40 @@ These statues mirror your movement. It is an **upset experience**.
 
 
 ## **_Dangers of grinding_**
+**Grind** is a concept that no gamer wants to experience, and yet, it’s very hard to 
+nail down what it is. “Grinding” or “Grind” can mean different things depending on 
+the genre and player, anyway we’re going to define it as this:
+
+Grind is the period of time in a game when the player’s ability to **progress** is reduced 
+to a few set options, and everything else will not move them forward.
+One of the key signs that your game becomes a grind is when there are things the 
+player **could be doing**, but doing them would be a **waste of time at this point**.
+
+### **_Origins of grinding_**
+
+In 1975, two students at the Southern Illinois University released DND, inspired by 
+the classic table-top game Dungeons & Dragons. 
+DND was one of the first games to feature non-linear progression, 
+meaning players could return to any level of the game to look for rarer 
+treasure or amass experience points. This unique game design at the time 
+allowed players to repeat quests and find better gear as they readied themselves 
+to take on the Golden Dragon. In other words, all of a sudden, it paid to repeat 
+the same tasks over and over for incremental gain.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Dnd8won.png/256px-Dnd8won.png)
+
+### **_Today_**
+
+The real problem and danger about “grinding” is that gamers who replay the same levels, 
+quests, and missions to slowly level up before taking on the actual next challenge that 
+lies ahead. And what began as a gaming term has become an everyday saying.
+
+The concept of grinding in video games has remained largely the same, but the ways it’s 
+employed by developers can make or break a game.
+
+![](https://lolfinity.com/wp-content/uploads/2018/12/Grind1_587-288x300.jpg)
+
+
+## **_Bibliography_**
+### **_Files_**
 
