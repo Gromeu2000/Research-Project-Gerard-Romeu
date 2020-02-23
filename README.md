@@ -90,3 +90,75 @@ The job is simple, the player has to go and deliver a thing to a certain place.
 show you how it’s done!”_
 There is no reason interacting with NPCs—or the game world—shouldn’t give the players 
 experience points. The focus of these quests are the less used mechanics.
+
+## **_Basic pillars of quests design_**
+Every year we play hundreds of quests, but a huge number of them disappear 
+into the mists of memory. As I mentioned before, quests can make the difference 
+between two similar games. 
+There is not a unique way to create quests that will make yours shine among the 
+others or a infallible formula that will make them perfect. Anyway, this are basics 
+and **tips** created from Patrick Mills, designer at **CD Projekt RED** the creators of _Witcher 3_, 
+that is considered one of the best games ever talking about quest design subject. 
+So, let’s start with that quest design masterclass. 
+
+**A good quest can come from anywhere**
+
+![](https://www.pcgamesn.com/wp-content/uploads/legacy/9_2.jpg)
+
+Starting with a blank sheet of paper is a nightmare for anyone in a creative industry, 
+and that’s certainly true for quest designers. Just where do you start in creating 
+something that will get people playing? Well, it could be literally anywhere.
+With even the smallest idea, a quest can be coaxed out. It’s all about applying 
+something that is worthwhile to the situation. 
+
+**Every quest must tell a story**
+
+![](https://www.pcgamesn.com/wp-content/uploads/legacy/10_1.jpg)
+
+It’s obvious that the player wants to be interested in the story that 
+the quest itself explains. Question that comes to the player’s mind is: Why should I, 
+hero of the realm, spend my time finding fish for the local fisherman? All too often these 
+types of quest make little sense, and have no narrative framework to support the task.
+
+**Banish your fear of dialogue**
+
+![](https://www.pcgamesn.com/wp-content/uploads/legacy/11_1.jpg)
+
+Talking of dialogue is important, we can’t be frightened to use it. It’s easy to think 
+that conversation in games should simply be there for narration or because It’s needed, 
+but when done correctly, dialogue is an equally engaging element of the game.
+If your scenes and your story is interesting, then that is gameplay and people will 
+enjoy playing it. 
+
+**Don’t underestimate your audience**
+
+![](https://www.pcgamesn.com/wp-content/uploads/legacy/12_1.jpg)
+
+You’re not going to capture a player’s imagination if you don’t give them anything to 
+think about, and if your player isn’t engaged, then why do they want to play at all? 
+We should never back away from complexity we should trust in our audience and try to 
+challenge them. If we’ve made something interesting, we trust that if players are engaged 
+they can understand and appreciate complexity. The only time people they really shy away 
+from complexity is when it’s presented in such a way that they’re not engaged with it or 
+they feel powerless to it. Making your game engaging is what makes it accessible.
+
+**Make the world relatable**
+
+![](https://www.pcgamesn.com/wp-content/uploads/legacy/13_1.jpg)
+
+One thing that’s important in life is making big decisions. We’ve all had to do it, 
+and we understand that when it comes to major choices nothing is clear. 
+Frequently, most games make the mistake of revealing major repercussions just 
+seconds after a choice has been made, allowing players to reload saves without having 
+to spend time re-playing large sections. There’s no real deal to making sure the end 
+result of a choice is the way the player wants it to be. 
+
+** Let the player do what they want**
+
+![](https://www.pcgamesn.com/wp-content/uploads/legacy/14_1.jpg)
+
+When combining quest and story design, it’s important to remember that there are 
+two people involved: the player and their character. In a non-interactive medium like 
+a film it’s fine for the hero to head off and do something that the audience doesn’t 
+want them to do. But in games the audience needs to want to get involved too. 
+Force players to perform tasks they don’t want to do, and you’ve failed them.
