@@ -301,9 +301,6 @@ The real problem and danger about “grinding” is that gamers who replay the s
 quests, and missions to slowly level up before taking on the actual next challenge that 
 lies ahead. And what began as a gaming term has become an everyday saying.
 
-The concept of grinding in video games has remained largely the same, but the ways it’s 
-employed by developers can make or break a game.
-
 ![](https://lolfinity.com/wp-content/uploads/2018/12/Grind1_587-288x300.jpg)
 
 
